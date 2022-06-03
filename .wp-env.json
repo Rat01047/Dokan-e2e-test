@@ -1,0 +1,25 @@
+{
+  "phpVersion": "8.0",
+  "WP_DEBUG": "true",
+  "SCRIPT_DEBUG": "true",
+  
+  "plugins": [
+    
+    "https://downloads.wordpress.org/plugin/woocommerce.6.5.1.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wl.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/ws.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wb.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wpad.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wsa.zip",
+    
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wl.zip",
+    "https://shashwata.ajaira.website/wp-content/uploads/2022/05/wp.zip"
+
+    
+  ],
+  "themes": [
+    "./wp-content/themes/storefront/" 
+  ]
+
+  
+}
